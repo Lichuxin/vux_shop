@@ -1,0 +1,10 @@
+[
+    {
+        "class_name":"男装","data":[
+            {"name":"夹克","class_id":"nan_1","url":"jiake"},
+            {"name":"T-恤","class_id":"nan_2","url":"Txu"},
+            {"name":"卫衣","class_id":"nan_3","url":"weiyi"},
+            {"name":"外套","class_id":"nan_4","url":"waitao"}
+        ]
+    }
+]
